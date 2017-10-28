@@ -8,7 +8,7 @@ public class SelectionSort {
 		int []arr=new int[100];
 		int n;
 		BufferedReader stdin=new BufferedReader(new InputStreamReader(System.in));
-		System.out.print("\tDemonstration of Linear Sort\n\t@Nishant Amoli,Btech IT");
+		System.out.print("\tDemonstration of Selection Sort\n\t@Nishant Amoli,Btech IT");
 		System.out.print("\n\n\tEnter the size of the array");
 		n=Integer.parseInt(stdin.readLine());
 		System.out.print("\n\tEnter the elements in the array");
