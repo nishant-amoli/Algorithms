@@ -33,6 +33,7 @@ public class InsertionSort {
 		System.out.print("\nArray after Insertion Sort :\n");
 		for(i=0;i<n;i++)
 			System.out.print(arr[i]+" ");
+		  hello;
 
 	}
 
